@@ -17,11 +17,9 @@ You can see my study projects below:
   - [Backend repository for RS School RS-Clone task](https://github.com/thrvrce/RS-Clone_backEnd)
   - [Backend repository for RS School React travel app task](https://github.com/thrvrce/RSSReact2021Q1-travel-app_backend)
 4. Simple pages:
-5. - [Wildlife](https://thrvrce.github.io/RS-School-JS2021Q1//wildlife/index.html)
+  - [Wildlife](https://thrvrce.github.io/RS-School-JS2021Q1//wildlife/index.html)
   - [Webdev](https://thrvrce.github.io/RS-School-JS2020Q3/webdev/index.html)   
   - [Shelter](https://thrvrce.github.io/RS-School-JS2020Q3/shelter/pages/main/main.html)
-6. Group projects: 
-  - [Covid dashboard app](https://thrvrce.github.io/RS-School-JS2020Q3/covid-dashboard/dist/index.html)
 
 
 <!--
