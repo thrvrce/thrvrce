@@ -1,9 +1,4 @@
-### Hi there 👋
-
-My name is Viktor Avdeev.
-🌱 I’m currently learning front-end (JavaScript\HTML\CSS\React\Typescript).
-
-You can see some my study projects below:
+### 
 1. Interactive pages:
   - [Online - ZOO](https://thrvrce.github.io/RS-School-JS2021Q1//online-zoo/pages/landing/landing.html) 
   - [Online calculator](https://thrvrce.github.io/RS-School-JS2020Q3/calculator/index.html)
